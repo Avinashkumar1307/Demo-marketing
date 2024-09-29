@@ -50,7 +50,7 @@ const About = () => {
         variants={fadeIn("","",0.1,1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        ZarvisGenix is a one-stop destination for Mobile Apps, Website development, and Digital Marketing services. ZarvisGenix has expertise in providing off-the-shelf as well as custom-built solution providers for the OnDemand Service Industry. ZarvisGenix has a vast portfolio of solutions ready for Taxies, Logistics, Delivery, Emergency services, Road assistance, Food delivery services, etc. We believe in maintaining a harmonious and long-term relationship with the clients/customers. We have clients in Europe, US, UK, India, and Middle East countries.
+        Team is a one-stop destination for Mobile Apps, Website development, and Digital Marketing services. Team has expertise in providing off-the-shelf as well as custom-built solution providers for the OnDemand Service Industry. Team has a vast portfolio of solutions ready for Taxies, Logistics, Delivery, Emergency services, Road assistance, Food delivery services, etc. We believe in maintaining a harmonious and long-term relationship with the clients/customers. We have clients in Europe, US, UK, India, and Middle East countries.
       </motion.p>
       <br/>     
     </>

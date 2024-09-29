@@ -144,7 +144,7 @@ import {
   const experiences = [
     {
       title: "Connect+",
-      company_name: "ZarvisGenix",
+      company_name: "Team",
       icon: connectplus,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
@@ -157,7 +157,7 @@ import {
     },
     {
       title: "Zarvis",
-      company_name: "ZarvisGenix",
+      company_name: "Team",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
@@ -170,7 +170,7 @@ import {
     },
     {
       title: "Genix",
-      company_name: "ZarvisGenix",
+      company_name: "Team",
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
@@ -183,7 +183,7 @@ import {
     },
     {
       title: "City Mapper",
-      company_name: "ZarvisGenix",
+      company_name: "Team",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
@@ -199,7 +199,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but ZarvisGenix did amazing work.",
+        "I thought it was impossible to make a website as beautiful as our product, but Team did amazing work.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -207,7 +207,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like ZarvisGenix does.",
+        "I've never met a web developer who truly cares about their clients' success like Team does.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -215,7 +215,7 @@ import {
     },
     {
       testimonial:
-        "After ZarvisGenix optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Team optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",

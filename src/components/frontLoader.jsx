@@ -35,7 +35,7 @@ export default frontLoader
 //     return (
 //     <div id="preLoader">
 //         <div>
-//             ZarvisGenix
+//             Team
 //         </div>
 //     </div>
 //   )

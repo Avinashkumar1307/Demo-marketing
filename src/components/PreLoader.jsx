@@ -18,7 +18,7 @@ const PreLoader = () => {
         </span>
         <br />
         <span>
-            ZarvisGenix
+            Team
         </span>
         <span>
           - loading

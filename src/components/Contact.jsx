@@ -45,9 +45,9 @@ const Contact = () => {
         'template_nfr3mht',
         {
           from_name: form.name,
-          to_name: "ZarvisGenix",
+          to_name: "Team",
           from_email: form.email,
-          to_email: "contact@zarvisgenix.com",
+          to_email: "contact@Team.com",
           message: form.message,
         },
         'l1Sc0Dj-2q8xigLWP'

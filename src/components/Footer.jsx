@@ -24,16 +24,16 @@ export default function Footer() {
                         <p className='text-xl text-[#3C3C3C]'>Located -</p>
                         <p className='text-xl text-[#3C3C3C]'>270-272 Bath Road, London</p>
                         <p className='text-xl text-[#3C3C3C]'>Email -</p>
-                        <p className='text-xl text-[#3C3C3C]'>connect@zarvisgenix.org</p>
+                        <p className='text-xl text-[#3C3C3C]'>connect@Team.org</p>
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.4201671565993!2d-0.27716509999999994!3d51.4688015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760fe8c538a443%3A0xde82f27f2197fdd3!2sZarvisGenix!5e0!3m2!1sen!2sin!4v1717079952803!5m2!1sen!2sin"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.4201671565993!2d-0.27716509999999994!3d51.4688015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760fe8c538a443%3A0xde82f27f2197fdd3!2sTeam!5e0!3m2!1sen!2sin!4v1717079952803!5m2!1sen!2sin"
                             width="300"
                             height="300"
                             style={{ border: 0 }}
                             allowFullScreen=""
                             loading="lazy"
                             referrerPolicy="no-referrer-when-downgrade"
-                            title="ZarvisGenix Location"
+                            title="Team Location"
                         ></iframe>
                     </div>
                     <div className="p-4">
